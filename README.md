@@ -1,17 +1,17 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'mHussein MUNYANKIKO 👋
 
 ### 🚀 Full Stack Developer | Frontend & Backend Enthusiast
 
 ---
 
-I'm a passionate **Full Stack Developer** based in [Your City, Country], with experience building accessible, responsive, and performant web applications. I enjoy working across the stack — from crafting clean UI with modern frontend frameworks to designing robust backend services.
+I'm a passionate **Full Stack Developer** based in Kigali-RWANDA, with experience building accessible, responsive, and performant web applications. I enjoy working across the stack — from crafting clean UI with modern frontend frameworks to designing robust backend services.
 
 Always motivated and well organized, I can work independently or as part of a team. I'm always eager to learn new skills and have a strong desire for continuous growth and improvement.
 
-- 🌍 Based in **[Your City, Country]**
+- 🌍 Based in **Kigali-RWANDA**
 - 🖥️ See my portfolio at **[yourportfolio.com](https://yourportfolio.com)**
-- 📬 Contact me at **[youremail@example.com](mailto:youremail@example.com)**
-- 🔭 Currently working on **[Your Current Project]**
+- 📬 Contact me at **munyankikohussein2@gmail.com](mailto:youremail@example.com)**
+- 🔭 Currently working on ** **
 - 🌱 Currently learning **[Something New]**
 - ⚡ Fun fact: **[Something interesting about you]**
 
