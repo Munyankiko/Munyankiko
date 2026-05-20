@@ -51,13 +51,7 @@ Always motivated and well organized, I can work independently or as part of a te
 
 ## 📊 GitHub Stats
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munyankiko&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munyankiko&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munyankiko&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+
 ---
  
 ## 🌐 Socials
