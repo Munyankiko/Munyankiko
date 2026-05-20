@@ -1,4 +1,4 @@
-# Hi there, I'mHussein MUNYANKIKO 👋
+# Hi there, I'm Hussein MUNYANKIKO 👋
 
 ### 🚀 Full Stack Developer | Frontend & Backend Enthusiast
 
@@ -50,8 +50,9 @@ Always motivated and well organized, I can work independently or as part of a te
 ---
 
 ## 📊 GitHub Stats
- 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Munyankiko&layout=compact&theme=tokyonight&hide_border=true&count_private=true
+ 
 ---
  
 ## 🌐 Socials
@@ -81,7 +82,4 @@ Always motivated and well organized, I can work independently or as part of a te
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Munyankiko&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<p align="center">⭐ <i>Feel free to star any repos you find interesting!</i> ⭐</p>
- 
-
 <p align="center">⭐ <i>Feel free to star any repos you find interesting!</i> ⭐</p>
